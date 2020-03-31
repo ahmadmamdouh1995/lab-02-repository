@@ -21,7 +21,7 @@ Start time: 8:00 pm
 
 Finish time: 10:00 pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: I'm finished at 5 pm 31/3/2020
 
 ## Feature #3: Style the application..
 
@@ -33,4 +33,7 @@ Start time: 10:00 pm
 
 Finish time: 1:00 am
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1 am 31/3/2020
+
+
+I get help from my partner Amal AlMomani
